@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'wpzSDWebImage_Example' do
+  pod 'wpzSDWebImage', :path => '../'
+
+  target 'wpzSDWebImage_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
