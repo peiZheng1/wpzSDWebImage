@@ -1,0 +1,6 @@
+framework module wpzSDWebImage {
+  umbrella header "wpzSDWebImage-umbrella.h"
+
+  export *
+  module * { export * }
+}
