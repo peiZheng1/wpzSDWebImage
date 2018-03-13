@@ -1,7 +1,7 @@
 PODS:
-  - wpzSDWebImage (0.1.0):
-    - wpzSDWebImage/SDWebImage (= 0.1.0)
-  - wpzSDWebImage/SDWebImage (0.1.0)
+  - wpzSDWebImage (0.1.1):
+    - wpzSDWebImage/SDWebImage (= 0.1.1)
+  - wpzSDWebImage/SDWebImage (0.1.1)
 
 DEPENDENCIES:
   - wpzSDWebImage (from `../`)
@@ -11,7 +11,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  wpzSDWebImage: c8b45bb8588e170e50943d279700675b0b55411c
+  wpzSDWebImage: e8bef683dfe353206890c935114f9780c519a855
 
 PODFILE CHECKSUM: c00d36a967e8535334729ae17a92c4aed6e5aa68
 

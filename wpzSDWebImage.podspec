@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'wpzSDWebImage'
-s.version          = '0.1.0'
+s.version          = '0.1.1'
 s.summary          = 'wpzSDWebImage For SDWebImage Clude Some ImagePlaceHoder For ImageView.'
 
 # This description is used to generate tags and improve search results.
@@ -32,7 +32,7 @@ s.source           = { :git => 'https://github.com/peiZheng1/wpzSDWebImage.git',
 s.platform     = :ios, "8.0"
 s.ios.deployment_target = '8.0'
 
-s.resources = "wpzSDWebImage/Pic/*.bundle"
+#s.resources = "wpzSDWebImage/Pic/*.bundle"
 #s.resources = "wpzSDWebImage/Pic/PlaecHoderImage.bundle"
 
 s.subspec 'SDWebImage' do |mod|

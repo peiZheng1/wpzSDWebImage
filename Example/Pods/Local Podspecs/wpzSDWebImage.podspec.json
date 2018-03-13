@@ -1,8 +1,8 @@
 {
   "name": "wpzSDWebImage",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "wpzSDWebImage For SDWebImage Clude Some ImagePlaceHoder For ImageView.",
-  "description": "wpzSDWebImage For SDWebImage Clude Some ImagePlaceHoder For ImageView.",
+  "description": "wpzSDWebImage For SDWebImage Clude Some ImagePlaceHoder For ImageView And Other summary.",
   "homepage": "https://github.com/peiZheng1/wpzSDWebImage",
   "license": {
     "type": "MIT",
@@ -13,12 +13,11 @@
   },
   "source": {
     "git": "https://github.com/peiZheng1/wpzSDWebImage.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "resources": "wpzSDWebImage/Pic/*.bundle",
   "frameworks": [
     "ImageIO",
     "MapKit"
